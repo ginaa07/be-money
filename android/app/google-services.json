@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "563125639116",
+    "project_id": "beemoney-cf7e9",
+    "storage_bucket": "beemoney-cf7e9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563125639116:android:1d8f2857e70bfd7e1faf69",
+        "android_client_info": {
+          "package_name": "com.example.dompetkita"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563125639116-1n9fsdtmhvvkipm2menqglgemrfoptlk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dompetkita",
+            "certificate_hash": "f3d2850bb847a1e2c82f1e6c8090717230ef79ee"
+          }
+        },
+        {
+          "client_id": "563125639116-4epm432k2sie1uuh3c58me6lnqlarr7i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNcU9Gj8uDJ1RIFdGYlVtwruPkMeWXRYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "563125639116-4epm432k2sie1uuh3c58me6lnqlarr7i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "563125639116-t33rvhk93nnglohlm1eo8h7pfnr86n1c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.dompetkita"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
