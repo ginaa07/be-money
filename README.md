@@ -215,3 +215,12 @@ Institut Teknologi dan Bisnis Bina Sarana Global
 Semester Genap 2026
 
 ---
+
+# 👨‍💻 Nama
+
+Nama : Regina Safarina
+
+Program Studi : Teknik Informatika
+Kelas         : TI SE 2 
+
+---
