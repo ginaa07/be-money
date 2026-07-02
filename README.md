@@ -33,3 +33,26 @@ Aplikasi ini terintegrasi dengan aplikasi **E-Commerce** menggunakan mekanisme *
 - Shared Preferences
 
 ---
+
+# 🔄 Arsitektur Sistem
+
+```
+User
+   │
+   ▼
+Flutter E-Money
+   │
+   ├──────────────► Firebase Authentication
+   │
+   ├──────────────► Backend API
+   │                    │
+   │                    ▼
+   │                 Database
+   │
+   └──────────────► Deep Link
+                         │
+                         ▼
+               Aplikasi Merchant
+```
+
+---
