@@ -205,3 +205,13 @@ lib
 - GitHub
 
 ---
+
+# 📚 Mata Kuliah
+
+Aplikasi Mobile Lanjutan
+
+Institut Teknologi dan Bisnis Bina Sarana Global
+
+Semester Genap 2026
+
+---
