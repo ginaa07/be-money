@@ -193,4 +193,15 @@ lib
 └── main.dart
 ```
 ---
+# 🛠️ Tools
 
+- Flutter SDK
+- Dart
+- Android Studio
+- Visual Studio Code
+- Firebase
+- Postman
+- Git
+- GitHub
+
+---
