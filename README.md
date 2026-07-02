@@ -85,3 +85,17 @@ merchant://payment-callback
 ```
 
 ---
+
+# 🔒 Two Factor Authentication (2FA)
+
+Untuk menjaga keamanan transaksi, setiap pembayaran akan melalui proses:
+
+1. User memilih pembayaran E-Money.
+2. Merchant mengirim Deep Link.
+3. Dompet Kita menerima request pembayaran.
+4. User melakukan verifikasi PIN / OTP (2FA).
+5. Backend memvalidasi transaksi.
+6. Saldo dipotong.
+7. Callback dikirim ke aplikasi Merchant.
+
+---
