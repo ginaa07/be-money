@@ -118,3 +118,11 @@ Backend menangani:
 - Two Factor Authentication
 
 ---
+
+# 🚀 Cara Menjalankan Project
+
+## 1 Clone Repository
+
+```bash
+git clone https://github.com/ginaa07/Project_dompetkita.git
+```
