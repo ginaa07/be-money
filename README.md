@@ -232,3 +232,46 @@ Kelas         : TI SE 2
 https://youtu.be/xxxxxxxxxx
 
 ---
+
+# 🏗️ Arsitektur Aplikasi
+
+Project menggunakan **Feature First Architecture** dengan pemisahan berdasarkan fitur dan layer sehingga mudah dikembangkan dan dipelihara.
+
+```text
+lib/
+│
+├── main.dart
+├── firebase_options.dart
+│
+├── core/
+│   ├── constantss/
+│   ├── error/
+│   ├── network/
+│   ├── router/
+│   ├── services/
+│   ├── theme/
+│   └── utils/
+│
+├── data/
+│   ├── datasources/
+│   ├── models/
+│   ├── repositories/
+│   
+│
+└── domain/
+│   ├── entities/
+│   ├── repositories/
+│   ├── usecases/
+│   
+│
+└── injection/
+│   ├── entities/
+│   ├── repositories/
+│   ├── usecases/
+│   
+│
+└── presentation/
+│   ├── blocs/
+│   ├── pages/
+│   ├── widgets/
+```
