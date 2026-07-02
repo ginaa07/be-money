@@ -274,4 +274,10 @@ lib/
 │   ├── blocs/
 │   ├── pages/
 │   ├── widgets/
+│   
+│
+└── firebase_options.dart
+└── main.dart
+
 ```
+
