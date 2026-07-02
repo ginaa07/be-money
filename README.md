@@ -14,7 +14,7 @@ Aplikasi ini dikembangkan dengan tujuan untuk mengimplementasikan konsep integra
 Nama : Regina Safarina
 
 Program Studi : Teknik Informatika
-Kelas         : TI SE 2 
+Kelas         : TI SE 23 P2 
 
 ---
 
