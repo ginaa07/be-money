@@ -60,7 +60,7 @@ class DefaultFirebaseOptions {
     messagingSenderId: '948878883710',
     projectId: 'fir-emoney-e9256',
     storageBucket: 'fir-emoney-e9256.firebasestorage.app',
-    iosBundleId: 'com.kampus.dompetKampusGlobal',
+    iosBundleId: 'com.kampus.dompetKita',
   );
 
   static const FirebaseOptions web = FirebaseOptions(
