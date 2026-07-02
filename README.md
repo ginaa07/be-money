@@ -56,3 +56,32 @@ Flutter E-Money
 ```
 
 ---
+
+# 🔗 Implementasi Deep Link
+
+Aplikasi menggunakan **Custom Scheme Deep Link** sebagai media komunikasi antar aplikasi.
+
+Flow pembayaran:
+
+```
+Merchant
+    │
+    ▼
+Deep Link
+(dompetkita://pay)
+    │
+    ▼
+Dompet Kita
+    │
+    ▼
+Verifikasi PIN + 2FA
+    │
+    ▼
+Potong Saldo
+    │
+    ▼
+Callback
+merchant://payment-callback
+```
+
+---
