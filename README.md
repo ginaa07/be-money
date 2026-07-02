@@ -9,6 +9,14 @@ Selain fitur pembayaran, aplikasi juga menyediakan autentikasi pengguna mengguna
 Aplikasi ini dikembangkan dengan tujuan untuk mengimplementasikan konsep integrasi antar aplikasi (App-to-App Integration), komunikasi dengan Backend API, pengelolaan transaksi digital, serta penerapan keamanan transaksi pada aplikasi mobile menggunakan Flutter.
 
 ---
+# 👨‍💻 Nama
+
+Nama : Regina Safarina
+
+Program Studi : Teknik Informatika
+Kelas         : TI SE 2 
+
+---
 
 # 📱 Fitur Utama
 
@@ -37,6 +45,55 @@ Aplikasi ini dikembangkan dengan tujuan untuk mengimplementasikan konsep integra
 - Shared Preferences
 
 ---
+
+# 🏗️ Arsitektur Aplikasi
+
+Project menggunakan **Feature First Architecture** dengan pemisahan berdasarkan fitur dan layer sehingga mudah dikembangkan dan dipelihara.
+
+```text
+lib/
+│
+├── main.dart
+├── firebase_options.dart
+│
+├── core/
+│   ├── constantss/
+│   ├── error/
+│   ├── network/
+│   ├── router/
+│   ├── services/
+│   ├── theme/
+│   └── utils/
+│
+├── data/
+│   ├── datasources/
+│   ├── models/
+│   ├── repositories/
+│   
+│
+└── domain/
+│   ├── entities/
+│   ├── repositories/
+│   ├── usecases/
+│   
+│
+└── injection/
+│   ├── entities/
+│   ├── repositories/
+│   ├── usecases/
+│   
+│
+└── presentation/
+│   ├── blocs/
+│   ├── pages/
+│   ├── widgets/
+│   
+│
+└── firebase_options.dart
+└── main.dart
+
+```
+
 
 # 🔄 Arsitektur Sistem
 
@@ -122,6 +179,18 @@ Backend menangani:
 - Two Factor Authentication
 
 ---
+
+#🖥️ Frontend Aplikasi Toko sepatu heels wanita
+
+Repository frontend:
+
+https://github.com/ginaa07/Toko_Sepatu_Heels_Wanita.git
+
+#🖥️ Backend Aplikasi Toko sepatu heels wanita
+
+Repository Backend:
+
+https://github.com/ginaa07/ReginaSafarina-gin-firebase-backend.git
 
 # 🚀 Cara Menjalankan Project
 
@@ -220,14 +289,7 @@ Semester Genap 2026
 
 ---
 
-# 👨‍💻 Nama
 
-Nama : Regina Safarina
-
-Program Studi : Teknik Informatika
-Kelas         : TI SE 2 
-
----
 # 🎥 Video Demo Aplikasi
 
  Link YouTube di sini
@@ -236,52 +298,4 @@ Kelas         : TI SE 2
 https://youtu.be/xxxxxxxxxx
 
 ---
-
-# 🏗️ Arsitektur Aplikasi
-
-Project menggunakan **Feature First Architecture** dengan pemisahan berdasarkan fitur dan layer sehingga mudah dikembangkan dan dipelihara.
-
-```text
-lib/
-│
-├── main.dart
-├── firebase_options.dart
-│
-├── core/
-│   ├── constantss/
-│   ├── error/
-│   ├── network/
-│   ├── router/
-│   ├── services/
-│   ├── theme/
-│   └── utils/
-│
-├── data/
-│   ├── datasources/
-│   ├── models/
-│   ├── repositories/
-│   
-│
-└── domain/
-│   ├── entities/
-│   ├── repositories/
-│   ├── usecases/
-│   
-│
-└── injection/
-│   ├── entities/
-│   ├── repositories/
-│   ├── usecases/
-│   
-│
-└── presentation/
-│   ├── blocs/
-│   ├── pages/
-│   ├── widgets/
-│   
-│
-└── firebase_options.dart
-└── main.dart
-
-```
 
