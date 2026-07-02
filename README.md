@@ -169,13 +169,28 @@ intl
 
 ## 📸 Screenshots
 <p align="center">
-  <img src="assets/images/assets/images/dompetkita.jpg" width="300" alt="Dompet Kita">
+  <img src="assets/images/dompetkita.jpg" width="300" alt="Dompet Kita">
 <img src="assets/images/buatakun.jpg" width="300" alt="Dompet Kita">
 <img src="assets/images/lanjutdengangoogle.jpg" width="300" alt="Dompet Kita">
-<img src="assets/images/pilihakun.jpg" width="300" alt="Dompet Kita">
 <img src="assets/images/masukemailotp.jpg" width="300" alt="Dompet Kita">
-<img src="assets/images/assets/images/dompetkita.jpg" width="300" alt="Dompet Kita">
-<img src="assets/images/assets/images/dompetkita.jpg" width="300" alt="Dompet Kita">
-<img src="assets/images/assets/images/dompetkita.jpg" width="300" alt="Dompet Kita">
+<img src="assets/images/saldodompetkita.jpg" width="300" alt="Dompet Kita">
+<img src="assets/images/transaksi.jpg" width="300" alt="Dompet Kita">
+<img src="assets/images/akunregina.jpg" width="300" alt="Dompet Kita">
 
     ---
+
+    # 📂 Struktur Project
+
+```
+lib
+│
+├── core
+├── data
+├── domain
+├── injection
+├── presentation
+├── firebase_options.dart
+└── main.dart
+```
+---
+
