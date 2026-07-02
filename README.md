@@ -146,3 +146,20 @@ flutter run
 ```
 
 ---
+
+# 📦 Dependency Utama
+
+```yaml
+firebase_core
+firebase_auth
+firebase_messaging
+dio
+provider
+shared_preferences
+app_links
+url_launcher
+flutter_local_notifications
+intl
+```
+
+---
