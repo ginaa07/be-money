@@ -160,11 +160,11 @@ Untuk menjaga keamanan transaksi, setiap pembayaran akan melalui proses:
 
 ---
  
-#🖥️ Backend
+#🖥️ Backend dompetkita
 
 Repository Backend:
 
-https://github.com/ginaa07/be-money
+https://github.com/ginaa07/backend_dompetkitaa.git
 
 Backend menangani:
 
