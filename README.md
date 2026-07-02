@@ -1,8 +1,12 @@
-# 💳 Dompet Kita (E-Money)
+# 📖 Deskripsi Aplikasi
 
-Aplikasi **Dompet Kita** merupakan aplikasi **E-Money** berbasis Flutter yang dikembangkan sebagai proyek **Ujian Akhir Semester (UAS) Aplikasi Mobile Lanjutan**.
+**Dompet Kita** merupakan aplikasi **E-Money berbasis Flutter** yang dikembangkan sebagai proyek **Ujian Akhir Semester (UAS) Mata Kuliah Aplikasi Mobile Lanjutan** di Institut Teknologi dan Bisnis Bina Sarana Global.
 
-Aplikasi ini terintegrasi dengan aplikasi **E-Commerce** menggunakan mekanisme **Deep Link (App-to-App Integration)** sehingga pengguna dapat melakukan pembayaran digital secara langsung melalui aplikasi Dompet Kita.
+Aplikasi ini berfungsi sebagai dompet digital yang memungkinkan pengguna melakukan transaksi pembayaran secara aman melalui mekanisme **App-to-App Integration** menggunakan **Deep Link**. Dompet Kita terhubung dengan aplikasi **E-Commerce (Merchant)** sehingga pengguna dapat menerima permintaan pembayaran, melakukan verifikasi transaksi menggunakan **Two-Factor Authentication (2FA)**, memotong saldo secara otomatis, dan mengirimkan hasil transaksi kembali ke aplikasi Merchant melalui callback Deep Link.
+
+Selain fitur pembayaran, aplikasi juga menyediakan autentikasi pengguna menggunakan **Firebase Authentication**, pengelolaan saldo, riwayat transaksi, serta notifikasi transaksi secara real-time menggunakan **Firebase Cloud Messaging (FCM)**. Seluruh proses komunikasi data dilakukan melalui **RESTful API** yang terhubung dengan backend untuk memastikan keamanan dan konsistensi data selama proses transaksi berlangsung.
+
+Aplikasi ini dikembangkan dengan tujuan untuk mengimplementasikan konsep integrasi antar aplikasi (App-to-App Integration), komunikasi dengan Backend API, pengelolaan transaksi digital, serta penerapan keamanan transaksi pada aplikasi mobile menggunakan Flutter.
 
 ---
 
