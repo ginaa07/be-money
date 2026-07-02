@@ -138,3 +138,11 @@ cd be-money
 ```bash
 flutter pub get
 ```
+
+## 4 Jalankan Project
+
+```bash
+flutter run
+```
+
+---
