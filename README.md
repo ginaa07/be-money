@@ -132,3 +132,9 @@ git clone https://github.com/ginaa07/be-money.git
 ```bash
 cd be-money
 ```
+
+## 3 Install Dependency
+
+```bash
+flutter pub get
+```
