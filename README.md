@@ -12,7 +12,7 @@ Aplikasi ini dikembangkan dengan tujuan untuk mengimplementasikan konsep integra
 ## 👤 Profil Pengembang
 - **Nama**      : Regina Safarina
 - **Kelas**     : TI SE 2
-- **Prodi**    : Teknik Informatika | Software Engineering
+- **Prodi**     : Teknik Informatika | Software Engineering
 - **NIM**       : 1123150124
 
 ---
