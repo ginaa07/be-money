@@ -99,3 +99,22 @@ Untuk menjaga keamanan transaksi, setiap pembayaran akan melalui proses:
 7. Callback dikirim ke aplikasi Merchant.
 
 ---
+ 
+#🖥️ Backend
+
+Repository Backend:
+
+https://github.com/ginaa07/be-money
+
+Backend menangani:
+
+- Authentication
+- Wallet
+- Saldo
+- Payment
+- Transaction
+- Deep Link Callback
+- Firebase Token
+- Two Factor Authentication
+
+---
