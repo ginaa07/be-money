@@ -224,3 +224,11 @@ Program Studi : Teknik Informatika
 Kelas         : TI SE 2 
 
 ---
+# 🎥 Video Demo Aplikasi
+
+ Link YouTube di sini
+
+
+https://youtu.be/xxxxxxxxxx
+
+---
