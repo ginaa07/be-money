@@ -9,12 +9,11 @@ Selain fitur pembayaran, aplikasi juga menyediakan autentikasi pengguna mengguna
 Aplikasi ini dikembangkan dengan tujuan untuk mengimplementasikan konsep integrasi antar aplikasi (App-to-App Integration), komunikasi dengan Backend API, pengelolaan transaksi digital, serta penerapan keamanan transaksi pada aplikasi mobile menggunakan Flutter.
 
 ---
-# 👨‍💻 Nama
-
-Nama : Regina Safarina
-
-Program Studi : Teknik Informatika
-Kelas         : TI SE 23 P2 
+## 👤 Profil Pengembang
+- **Nama**      : Regina Safarina
+- **Kelas**     : TI SE 2
+- **Prodi**    : Teknik Informatika | Software Engineering
+- **NIM**       : 1123150124
 
 ---
 
