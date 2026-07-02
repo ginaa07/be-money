@@ -292,9 +292,9 @@ Semester Genap 2026
 # 🎥 Video Demo Aplikasi
 
  Link YouTube di sini
+(ini lagi edit videonya)
 
-
-https://youtu.be/xxxxxxxxxxahuag
+https://youtu.be/xxxxxxxxxxahuag 
 
 ---
 
