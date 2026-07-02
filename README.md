@@ -19,3 +19,17 @@ Aplikasi ini terintegrasi dengan aplikasi **E-Commerce** menggunakan mekanisme *
 - 🌙 UI Modern dan Responsive
 
 ---
+
+### Teknologi yang digunakan
+
+- Flutter
+- Dart
+- Firebase Authentication
+- Firebase Cloud Messaging
+- Dio
+- Provider
+- Deep Link (app_links)
+- REST API
+- Shared Preferences
+
+---
