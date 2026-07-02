@@ -217,24 +217,38 @@ flutter pub get
 flutter run
 ```
 
----
 
-# 📦 Dependency Utama
-
-```yaml
-firebase_core
-firebase_auth
-firebase_messaging
-dio
-provider
-shared_preferences
-app_links
-url_launcher
-flutter_local_notifications
-intl
-```
 
 ---
+
+# 📦 Dependencies Utama
+
+Project **DompetKita** menggunakan beberapa package Flutter sebagai berikut:
+
+- flutter_bloc (^9.0.0)
+- equatable (^2.0.5)
+- get_it (^8.0.2)
+- go_router (^14.8.1)
+- dio (^5.7.0)
+- pretty_dio_logger (^1.4.0)
+- firebase_core (^3.12.1)
+- firebase_auth (^5.5.2)
+- firebase_messaging (^15.2.4)
+- google_sign_in (^6.2.2)
+- flutter_secure_storage (^9.2.2)
+- shared_preferences (^2.3.4)
+- mobile_scanner (^7.0.0)
+- cached_network_image (^3.4.1)
+- shimmer (^3.0.0)
+- intl (^0.19.0)
+- cupertino_icons (^1.0.8)
+- url_launcher (^6.3.2)
+- app_links (^6.4.1)
+
+## 🛠️ Development Dependencies
+
+- flutter_test (SDK Flutter)
+- flutter_lints (^5.0.0)
 
 ## Tampilan UI Dompet Kita
 - **Nama** : Dompetkita
