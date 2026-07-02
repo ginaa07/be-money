@@ -124,5 +124,11 @@ Backend menangani:
 ## 1 Clone Repository
 
 ```bash
-git clone https://github.com/ginaa07/Project_dompetkita.git
+git clone https://github.com/ginaa07/be-money.git
+```
+
+## 2 Masuk Folder
+
+```bash
+cd be-money
 ```
