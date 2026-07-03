@@ -305,10 +305,10 @@ Semester Genap 2026
 
 # 🎥 Video Demo Aplikasi
 
- Link YouTube di sini
-(ini lagi edit videonya)
+ Link YouTube demo aplikasi nya
 
-https://youtu.be/xxxxxxxxxxahuag 
+https://youtu.be/IIJeVM7PEX4?si=LP-L9n36Y7Fi9ys
+
 
 ---
 
