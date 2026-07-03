@@ -312,3 +312,20 @@ https://youtu.be/IIJeVM7PEX4?si=LP-L9n36Y7Fi9ys
 
 ---
 
+# 🐳 Menjalankan Redis dengan Docker
+
+Aplikasi ini membutuhkan **Redis** agar backend dapat berjalan dengan baik. Redis digunakan untuk menyimpan data sementara seperti OTP/2FA, cache, session, dan proses transaksi.
+
+## 1. Pastikan Docker Sudah Terinstall
+
+Cek Docker dengan perintah:
+
+```bash
+docker --version
+```
+
+## 2. Jalankan Redis Container
+
+```bash
+docker run --name redis-dompetkita -p 6379:6379 -d redis
+```
