@@ -329,3 +329,22 @@ docker --version
 ```bash
 docker run --name redis-dompetkita -p 6379:6379 -d redis
 ```
+
+Penjelasan:
+
+- `--name redis-dompetkita` memberi nama container Redis.
+- `-p 6379:6379` menghubungkan port Redis dari Docker ke komputer lokal.
+- `-d` menjalankan container di background.
+- `redis` adalah image Redis dari Docker Hub.
+
+## 3. Cek Redis Berjalan
+
+```bash
+docker ps
+```
+
+Jika berhasil, akan muncul container bernama:
+
+```text
+redis-dompetkita
+```
