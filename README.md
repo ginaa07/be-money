@@ -363,4 +363,62 @@ ping
 Jika Redis berjalan normal, hasilnya:
 
 ```text
-PONG
+
+## 5. Menjalankan Kembali Redis
+
+Jika container sudah pernah dibuat, gunakan:
+
+```bash
+docker start redis-dompetkita
+```
+
+## 6. Menghentikan Redis
+
+```bash
+docker stop redis-dompetkita
+```
+
+## 7. Menghapus Container Redis
+
+```bash
+docker rm redis-dompetkita
+```
+
+---
+
+# ⚙️ Konfigurasi Backend Redis
+
+Pastikan konfigurasi Redis pada file `.env` backend sesuai seperti berikut:
+
+```env
+REDIS_HOST=localhost
+REDIS_PORT=6379
+```
+
+Jika backend dijalankan di dalam Docker juga, gunakan nama service/container Redis sebagai host, misalnya:
+
+```env
+REDIS_HOST=redis
+REDIS_PORT=6379
+```
+
+---
+
+# 🚀 Alur Menjalankan Aplikasi
+
+```bash
+# 1. Jalankan Redis
+docker start redis-dompetkita
+```
+
+```bash
+# 2. Jalankan backend
+npm run dev
+```
+
+```bash
+# 3. Jalankan aplikasi Flutter
+flutter run
+```
+
+Dengan Redis yang aktif, fitur seperti OTP/2FA, transaksi, dan komunikasi backend dapat berjalan dengan baik.
