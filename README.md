@@ -348,3 +348,19 @@ Jika berhasil, akan muncul container bernama:
 ```text
 redis-dompetkita
 ```
+## 4. Tes Koneksi Redis
+
+```bash
+docker exec -it redis-dompetkita redis-cli
+```
+
+Lalu ketik:
+
+```bash
+ping
+```
+
+Jika Redis berjalan normal, hasilnya:
+
+```text
+PONG
